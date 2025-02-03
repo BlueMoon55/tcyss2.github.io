@@ -12,7 +12,7 @@
     <dc:language>ja</dc:language>
     <!--<dc:identifier id="unique-id">urn:uuid:4ab08659-bd7c-b339-f34f-0e9d3a95d176</dc:identifier>-->
     <dc:identifier id="unique-id">urn:uuid:f8644f1a-3b4d-4a6c-ba05-4acff4b521af</dc:identifier>
-    <meta property="dcterms:modified">2025-01-24T01:15:42Z</meta>
+    <meta property="dcterms:modified">2025-02-03T02:53:45Z</meta>
     <dc:subject>経営情報セキュリティ（コンピュータ）, 情報セキュリティマネジメントシステム, 経営情報, 東京都, 中小企業, サイバーセキュリティ</dc:subject>
     <dc:date>2024-12-27</dc:date>
     <dc:rights>(C) 2024 Bureau of Industrial and Labor Affairs, Tokyo Metropolitan Government. All Rights Reserved.</dc:rights>
@@ -371,7 +371,9 @@
     <item id="p-089" href="xhtml/p-089.xhtml" media-type="application/xhtml+xml"/>
     <item id="p-202208-01" href="xhtml/p-202208-01.xhtml" media-type="application/xhtml+xml"/>
     <item id="p-caution" href="xhtml/p-caution.xhtml" media-type="application/xhtml+xml"/>
+    <item id="p-afterword" href="xhtml/p-afterword.xhtml" media-type="application/xhtml+xml"/>
     <item id="p-colophon" href="xhtml/p-colophon.xhtml" media-type="application/xhtml+xml"/>
+
 
 
   </manifest>
@@ -487,7 +489,9 @@
     <itemref idref="p-202208-01"/>
     <itemref idref="p-088"/>
     <itemref idref="p-089"/>
+    <itemref idref="p-afterword"/>
     <itemref idref="p-colophon"/>
+
 
   </spine>
 </package>
